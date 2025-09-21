@@ -9,7 +9,8 @@
     box-sizing: border-box;
     color: white;
     text-decoration: none;
-    list-style: none;   
+    list-style: none;  
+    overflow: hidden;
 }
 
 html{
